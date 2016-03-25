@@ -1,0 +1,30 @@
+api:
+  # Тип транспорта: Легковые
+  main_category: 1
+
+  # Марка: Subaru
+  marka_id: 75
+
+  # Модель: Outback
+  model_id: 1720
+
+  # Годы выпуска: 2008-2009
+  yers:
+    - 2008
+    - 2009
+
+  # Объем двигателя: 3л
+  #engineVolume: 3
+
+  # На ходу
+  #onRepairParts: 0
+
+  # Растаможен
+  #custom: 1
+
+  # Не после ДТП
+  #damage: 0
+
+price:
+  low: 0
+  max: 15100

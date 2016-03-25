@@ -1,0 +1,7 @@
+mail_config.yml
+*.log
+id_store
+
+.idea/*
+
+.DS_Store
