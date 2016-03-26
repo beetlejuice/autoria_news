@@ -1,4 +1,5 @@
-mail_config.yml
+config/mail_config.yml
+config/car_parameters.yml
 *.log
 id_store
 

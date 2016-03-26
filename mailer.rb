@@ -4,7 +4,7 @@ require 'yaml'
 class Mailer
 
   def self.notify
-    mail_config = YAML::load_file('mail_config.yml')
+    mail_config = YAML::load_file('config/mail_config.yml')
     mailer_account = mail_config['mailer_account']
     mailer_password = mail_config['mailer_password']
     options = {
